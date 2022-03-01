@@ -41,6 +41,5 @@ int main()
         cout << element << " ";
     }
     
-    
     return 0;
 }
